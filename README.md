@@ -35,4 +35,4 @@ Estes projetos têm finalidade educacional. Execute ferramentas de rede somente 
 
 Os projetos fazem parte da minha trilha prática de estudos e serão revisados e aprimorados conforme aprofundo os conceitos e reconstruo cada implementação passo a passo.
 
-- ## Att; LeonardoS. - Obrigado!
+## Att; LeonardoS. - Obrigado!
